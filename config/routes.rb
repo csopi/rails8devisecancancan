@@ -10,6 +10,6 @@ Rails.application.routes.draw do
 
   resources :roles
 
-  get "static/about"
+  get "rolunk", to: "static#about"
   
 end
