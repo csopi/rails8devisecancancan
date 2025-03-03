@@ -61,3 +61,4 @@ gem "bootstrap", "~> 5.3.3"
 gem 'simple_form'
 gem 'devise'
 gem "cancancan", "~> 3.6"
+gem 'rename'
