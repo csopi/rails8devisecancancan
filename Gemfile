@@ -57,7 +57,7 @@ group :development do
 end
 
 gem "dartsass-rails"
-gem "bootstrap", "~> 5.3.3"
+gem "bootstrap", "~> 5.3.5"
 gem 'simple_form'
 gem 'devise'
 gem "cancancan", "~> 3.6"
